@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar a:visited {
+    color: white
+}
+
+.navbar a:hover {
+    color: lightgray;
+}
